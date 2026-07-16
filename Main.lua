@@ -1,1 +1,1 @@
-print("Darkens Mini Hub cargado correctamente")
+print("Bienvenido a Darkens Mini Hub")
